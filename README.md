@@ -50,6 +50,7 @@ The repo contains a chatbot built using a dockerized LLM Model. We provide a UI 
 
 ## Models used
 
+As of now, 2 models have been added: 
 - LLAMA 7B: Using [llama.cpp](https://github.com/abetlen/llama-cpp-python)
 - GPT-J: Using [GPT4All](https://github.com/nomic-ai/gpt4all)
 
