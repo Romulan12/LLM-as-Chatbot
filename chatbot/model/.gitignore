@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+*$py.class
+
+# image tag
+.cache_image_url
+
+# OS System files
+.DS_Store

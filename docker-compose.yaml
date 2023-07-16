@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  chatbot:
+    build: chatbot/
+    ports:
+      - "8100:8100"

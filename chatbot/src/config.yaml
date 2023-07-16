@@ -1,0 +1,10 @@
+maintainer: Misha Rana
+model:
+  LLAMA: "https://huggingface.co/Sosaka/Alpaca-native-4bit-ggml/resolve/main/ggml-alpaca-7b-q4.bin"
+  GPT-J: "https://huggingface.co/dnato/ggml-gpt4all-j-v1.3-groovy.bin/resolve/main/ggml-gpt4all-j-v1.3-groovy.bin"
+model_dir: "../model"
+
+
+
+  
+  
