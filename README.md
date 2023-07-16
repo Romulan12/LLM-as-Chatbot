@@ -53,7 +53,7 @@ The repo contains a chatbot built using a dockerized LLM Model. We provide a UI 
 - LLAMA 7B: Using [llama.cpp](https://github.com/abetlen/llama-cpp-python)
 - GPT-J: Using [GPT4All](https://github.com/nomic-ai/gpt4all)
 
-> GPT-J model is faster than LLAMA, but provides inferior results to LLAMA. For system with resource constraints using GPT-J is preferred. 
+> GPT-J model is faster than LLAMA, but provides the results aren't as good as compared to LLAMA. For systems with resource constraints using GPT-J should be preferred. 
 
 # Documentation
 [Documentation](assets/Documentation.pdf)
